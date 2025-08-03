@@ -1,0 +1,6 @@
+numpy
+argparse
+cv2
+imutils
+pytesseract
+PIL
